@@ -8,5 +8,20 @@ You will be presented with a scenario similar to the ones you would be facing as
 
 If you are applying for the role, please request the instructions from your Hiring Partner.
 
+### Project Structure
+
+#### Scripts
+There is only one script that manages the ship's movement. The component is attached to the Ship prefab.
+
+#### Sample Scene
+There's a sample scene with a Spaceship that automatically accelerates and can be controlled using the left and right arrow keys. Cinemachine is also configured to follow the spaceship.
+
+### Configuration
+* Unity 2020.3 LTS
+* Cinemachine 2.6.4
+* Universal RP 10.03.2
+
 ### References:
-* [Unity Multiplayer Documentation] (https://docs-multiplayer.unity3d.com/)
+* [Unity Multiplayer Documentation](https://docs-multiplayer.unity3d.com/)
+* [Cinemachine Documentation](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html)
+* [Universal RP Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/index.html)
