@@ -24,3 +24,4 @@ There's a sample scene with a Spaceship that automatically accelerates and can b
 ### References:
 * [Unity Multiplayer Documentation](https://docs-multiplayer.unity3d.com/)
 * [Cinemachine Documentation](https://docs.unity3d.com/Packages/com.unity.cinemachine@2.3/manual/index.html)
+* [Universal RP Documentation](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@11.0/manual/index.html)
